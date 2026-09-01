@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6AA84F&width=700&lines=Hello%2C+I'm+Moh;Build+with+tactics.+Build+with+Moh.;Product+Designer+%E2%86%92+Learning+to+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6AA84F&width=700&lines=Hello%2C+I'm+Margaret+Okpani;Build+with+tactics.+Build+with+Moh.;Product+Designer+%E2%86%92+Learning+to+Code)](https://git.io/typing-svg)
 
 <table>
 <tr>
@@ -6,7 +6,7 @@
 
 ### 👩‍💻 Welcome to my digital playground!
 
-I'm **Moh**, a Product Designer learning to code so I can bring my designs to life myself. Currently picking up HTML, CSS, and JavaScript one project at a time, and leaning into AI tools along the way to learn faster and build smarter.
+Currently picking up HTML, CSS, and JavaScript one project at a time, and leaning into AI tools along the way to learn faster and build smarter.
 
 </td>
 <td width="35%">
