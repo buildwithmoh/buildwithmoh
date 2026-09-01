@@ -4,13 +4,13 @@
 <tr>
 <td width="65%">
 
-### 👩‍💻 Welcome to my Digital Hub
+### 👩‍💻 Welcome to my World
 
-I'm **Moh**, I design and code. Currently picking up HTML, CSS, and JavaScript one project at a time; and leaning into AI tools along the way to learn faster and build smarter.
+I'm **Moh**,Currently picking up HTML, CSS, and JavaScript one project at a time, and leaning into AI tools along the way to learn faster and build smarter.
 
 </td>
 <td width="35%">
-<img src="./assets/avatar-buildwithmoh.svg" width="260"/>
+<img src="./assets/avatar-buildwithmoh.png" width="260"/>
 </td>
 </tr>
 </table>
@@ -27,25 +27,18 @@ I'm **Moh**, I design and code. Currently picking up HTML, CSS, and JavaScript o
 
 ### 🎮 Currently Building
 
-Working through a **game design challenge** using HTML, CSS & JavaScript; applying my design background to build something playable from scratch.
+Working through a **game design challenge** using HTML, CSS & JavaScript, applying my design background to build something playable from scratch.
 
 ---
 
 ### 🚀 What I Bring
 
-- A strong product design background — layout, UX, and visual detail
+- A strong product design background: layout, UX, and visual detail
 - A designer's eye applied to front-end code as I learn to build
-- Curiosity and consistency — learning HTML, CSS & JS one project at a time
+- Curiosity and consistency, learning HTML, CSS & JS one project at a time
 - Comfortable using AI tools to learn faster and problem-solve
 - Bridging the gap between design and development
 
 ---
 
-### 📊 GitHub Analytics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Buildwithmoh&show_icons=true&theme=radical)](https://github.com/Buildwithmoh)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buildwithmoh&layout=compact&theme=radical)](https://github.com/Buildwithmoh)
-
----
-
-*Open to collaborations and new opportunities — feel free to reach out!*
+*Open to collaborations and new opportunities, feel free to reach out!*
