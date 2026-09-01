@@ -1,8 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6AA84F&width=700&lines=Hello%2C+I'm+Moh;Build+with+tactics.+Build+with+Moh.;Product+Designer+%E2%86%92+Learning+to+Code)](https://git.io/typing-svg)
 
-### 👋 Welcome to my GitHub
+<table>
+<tr>
+<td width="65%">
 
-I'm **Moh**, a Product Designer learning to code so I can bring my designs to life myself. Currently picking up HTML, CSS, and JavaScript one project at a time — and leaning into AI tools along the way to learn faster and build smarter.
+### 👩‍💻 Welcome to my Digital Hub
+
+I'm **Moh**, I design and code. Currently picking up HTML, CSS, and JavaScript one project at a time; and leaning into AI tools along the way to learn faster and build smarter.
+
+</td>
+<td width="35%">
+<img src="./assets/avatar-buildwithmoh.svg" width="260"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -16,7 +27,7 @@ I'm **Moh**, a Product Designer learning to code so I can bring my designs to li
 
 ### 🎮 Currently Building
 
-Working through a **game design challenge** using HTML, CSS & JavaScript — applying my design background to build something playable from scratch.
+Working through a **game design challenge** using HTML, CSS & JavaScript; applying my design background to build something playable from scratch.
 
 ---
 
@@ -27,14 +38,6 @@ Working through a **game design challenge** using HTML, CSS & JavaScript — app
 - Curiosity and consistency — learning HTML, CSS & JS one project at a time
 - Comfortable using AI tools to learn faster and problem-solve
 - Bridging the gap between design and development
-
----
-
-### 🤝 Let's Connect
-
-- 🌐 **Portfolio:** add-your-link-here
-- 💼 **LinkedIn:** add-your-link-here
-- 📧 **Email:** add-your-email-here
 
 ---
 
