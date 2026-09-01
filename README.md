@@ -10,7 +10,7 @@ I'm **Moh**, a Product Designer learning to code so I can bring my designs to li
 
 </td>
 <td width="35%">
-<img src="./assets/moh.png" width="260"/>
+<img src="./assets/Moh.png" width="260"/>
 </td>
 </tr>
 </table>
