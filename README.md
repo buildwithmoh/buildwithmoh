@@ -24,7 +24,7 @@ I'm **Moh**, a Product Designer teaching myself to code, one experiment at a tim
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="./assets/moh-animation.svg" width="240"/>
+<img src="./assets/Mohanimate.svg" width="240"/>
 </td>
 </tr>
 </table>
