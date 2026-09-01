@@ -6,7 +6,7 @@
 
 Product Designer teaching myself to code, one project at a time. I think in layouts, play in pixels, and I'm now learning to turn both into things that actually run in a browser. HTML, CSS, and JavaScript are my current training ground, and leaning into AI tools along the way to learn faster and build smarter.
 
-</td> <td width="35%"> <img src="./assets/moh.png" width="260"/> </td> </tr> </table>
+</td> <td width="35%"> <img src="./assets/Moh - Animated Circle.svg" width="260"/> </td> </tr> </table>
 
 ---
 
