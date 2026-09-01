@@ -4,13 +4,13 @@
 <tr>
 <td width="65%">
 
-### 👩‍💻 Welcome to my World
+### 👩‍💻 Welcome to my digital playground!
 
-I'm **Moh**,Currently picking up HTML, CSS, and JavaScript one project at a time, and leaning into AI tools along the way to learn faster and build smarter.
+I'm **Moh**, a Product Designer learning to code so I can bring my designs to life myself. Currently picking up HTML, CSS, and JavaScript one project at a time, and leaning into AI tools along the way to learn faster and build smarter.
 
 </td>
 <td width="35%">
-<img src="./assets/avatar-buildwithmoh.png" width="260"/>
+<img src="./assets/moh.png" width="260"/>
 </td>
 </tr>
 </table>
