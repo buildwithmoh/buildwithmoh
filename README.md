@@ -1,12 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6AA84F&width=700&lines=Hello%2C+I'm+Margaret+Okpani;Build+with+tactics.+Build+with+Moh.;Product+Designer+%E2%86%92+Learning+to+Code)](https://git.io/typing-svg)
 
-<table> <tr> <td width="65%">
+<table>
+<tr>
+<td width="65%">
 
 ### 👩‍💻 Welcome to my Digital Hub ✨
 
 Product Designer teaching myself to code, one project at a time. I think in layouts, play in pixels, and I'm now learning to turn both into things that actually run in a browser. HTML, CSS, and JavaScript are my current training ground, and leaning into AI tools along the way to learn faster and build smarter.
 
-</td> <td width="35%"> <img src="./assets/Moh - Animated Circle.svg" width="260"/> </td> </tr> </table>
+</td>
+<td width="35%">
+<img src="./assets/moh-animated.svg" width="260"/>
+</td>
+</tr>
+</table>
 
 ---
 
