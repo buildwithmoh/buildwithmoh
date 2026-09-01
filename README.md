@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6AA84F&width=700&lines=Hello%2C+I'm+Margaret+Okpani;Build+with+tactics.+Build+with+Moh.;Product+Designer+%E2%86%92+Learning+to+Code)](https://git.io/typing-svg)
 
-<img src="./assets/Moh.png" align="right" width="260" style="border:none;" border="0"/>
+<table> <tr> <td width="65%">
 
-### ✨ 👩‍💻 Welcome to my Digital Hub ✨
+### 👩‍💻 Welcome to my Digital Hub ✨
 
-✨ Currently picking up HTML, CSS, and JavaScript one project at a time, and leaning into AI tools along the way to learn faster and build smarter. ✨
+Product Designer teaching myself to code, one project at a time. I think in layouts, play in pixels, and I'm now learning to turn both into things that actually run in a browser. HTML, CSS, and JavaScript are my current training ground, and leaning into AI tools along the way to learn faster and build smarter.
 
-<br clear="right"/>
+</td> <td width="35%"> <img src="./assets/moh.png" width="260"/> </td> </tr> </table>
 
 ---
 
