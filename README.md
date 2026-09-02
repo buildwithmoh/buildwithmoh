@@ -14,7 +14,7 @@ I'm **Moh**, a Product Designer teaching myself to code, one experiment at a tim
 
 <table width="100%" style="border:none;">
 <tr>
-<td width="100%" valign="middle">
+<td width="65%" valign="middle">
 
 ### ✨ What I Bring
 
