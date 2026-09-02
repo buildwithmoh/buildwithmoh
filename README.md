@@ -14,15 +14,14 @@ I'm **Moh**, a Product Designer teaching myself to code, one experiment at a tim
 
 <table width="100%" style="border:none;">
 <tr>
-<td width="65%" valign="middle">
+<td width="100%" valign="middle">
 
 ### ✨ What I Bring
 
 - A designer's instinct for layout, hierarchy, and how things should feel
-- A growing grip on front-end code to build what I used to only design
 - Patience for the long game: one project, one bug, one lesson at a time
 - AI as a tool in the workflow, not a shortcut around learning
-- A bridge between how something looks and how it actually works
+- Bridging the gap between design and development
 
 </td>
 <td width="35%" align="center" valign="middle">
