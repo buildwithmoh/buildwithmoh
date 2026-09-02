@@ -6,7 +6,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=Buildwithmoh&label=visitors&color=blue&style=flat)
 
-Product Designer teaching myself to code, one experiment at a time. I think in layouts, play in pixels, and I'm now learning to turn both into things that actually run in a browser. HTML, CSS, and JavaScript are my current training ground, and leaning into AI tools along the way to learn faster and build smarter.
+I think in layouts, play in pixels, and I'm now learning to turn both into things that actually run in a browser. HTML, CSS, and JavaScript are my current training ground, and leaning into AI tools along the way to learn faster and build smarter.
 
 > 🎮 **Currently building:** a game design challenge in HTML, CSS & JavaScript, taking a concept from sketch to something you can click, move, and play.
 
