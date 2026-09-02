@@ -43,4 +43,9 @@ I think in layouts, play in pixels, and I'm now learning to turn both into thing
 
 ---
 
+🐍 Contribution Graph
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buildwithmoh/Buildwithmoh/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Buildwithmoh/Buildwithmoh/output/github-contribution-grid-snake.svg" /> <img alt="github contribution snake" src="https://raw.githubusercontent.com/Buildwithmoh/Buildwithmoh/output/github-contribution-grid-snake.svg" /> </picture>
+
+---
+
 *Always up for a good collaboration or a new challenge, say hello.*
