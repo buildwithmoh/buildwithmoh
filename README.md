@@ -1,4 +1,4 @@
-<img src="./assets/moh-typing-rainbow.svg" alt="Typing SVG" width="700"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6AA84F&width=700&lines=Hello%2C+I'm+Margaret+Okpani;Product+Designer+%E2%86%92+Learning+to+Code;Build+with+tactics.+Build+with+Moh.)](https://git.io/typing-svg)
 
 ## 👩‍💻 Welcome to My Digital Playground
 
@@ -26,7 +26,7 @@ I'm **Moh**, a Product Designer teaching myself to code, one experiment at a tim
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="./assets/mohanimated.svg" width="240"/>
+<img src="./assets/Mohanimate.svg" width="240"/>
 </td>
 </tr>
 </table>
